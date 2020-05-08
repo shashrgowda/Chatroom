@@ -7,3 +7,4 @@ A Full duplex communication app using WebSockets & Node.js
 # Enhancements to be made
 - Allow to join existing online chatrooms.
 - Option to make chatroom public/private.
+- Design a better looking UI.
